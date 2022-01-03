@@ -49,7 +49,7 @@ public class PlaylistActivity extends AppCompatActivity {
     private static final String EXT_M3U = "#EXTM3U";
     private static final String EXT_INF = "#EXTINF:";
     private static final String EXT_LOGO = "tvg-logo";
-    private static final String EXT_URL = "http://";
+    private static final String EXT_URL = "https://fir-cloud-8d70f.web.app/lista.m3u8";
 
     String stream;
     String goLink;
